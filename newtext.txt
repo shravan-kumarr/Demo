@@ -5,8 +5,4 @@ added few
 more lines
 
 added feature
-<<<<<<< HEAD
-in main branch1
-=======
-in feature branch1
->>>>>>> feature
+in main branch
