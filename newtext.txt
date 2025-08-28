@@ -6,3 +6,4 @@ more lines
 
 added feature
 in main branch
+using vi
